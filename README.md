@@ -21,7 +21,7 @@ The deployed website is https://ruxinqu.github.io/horiseon-code-refactor/
 6. Consolidated the three same styling on `.benefit-lead`, `.benefit-brand` and `.benefit-cost` under one class selector `.benefit-box`.
 * Moved the same styling on `.benefit-lead img`, `.benefit-brand img` and `.benefit-cost img` to one selector `.benefit-box img`.
 * Moved the same styling on `.benefit-lead h3`, `.benefit-brand h3` and `.benefit-cost h3` to one selector `.benefit-box h3`.
-7. Put all the same `font-familyinbody` selector.
+7. Put all the same `font-family` in the `body` selector.
 8. Consolidated the same styling on &lt;header&gt; and &lt;footer&gt;.
 9. Added comments to separate different section in HTML and CSS file, so that it's organized and easier to maintain.
 
